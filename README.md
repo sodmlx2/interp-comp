@@ -1,5 +1,4 @@
-# interp-comp --help
-
+# interp-comp
 ```console
 $ make clean
 $ make 
