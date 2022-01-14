@@ -1,6 +1,4 @@
-# Compiladores
-
-Utilização do Programa ;)
+# interp-comp --help
 
 ```console
 $ make clean
